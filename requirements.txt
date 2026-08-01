@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+matplotlib==3.9.1
+plotly==5.23.0
+streamlit==1.37.0
+joblib==1.4.2
+
+# --- Conversational Data Analyst (new feature) ---
+anthropic==0.34.2          # default LLM provider (Claude); set ANTHROPIC_API_KEY
+google-generativeai==0.7.2 # optional alt provider (Gemini); set GEMINI_API_KEY + LLM_PROVIDER=gemini
+python-dotenv==1.0.1       # optional: load .env file for local development
+pytest==8.3.2              # for running tests/test_conversation_agent.py
