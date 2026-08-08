@@ -111,10 +111,4 @@ The model predicts daily revenue using features such as:
 - 7-day rolling average
 - 30-day rolling average
 
-## Resume Description
 
-Built an end-to-end Sales Forecasting and Business Intelligence dashboard using Python, Pandas, scikit-learn, and Streamlit. Implemented data preprocessing, feature engineering, Random Forest forecasting, business analytics, and interactive visualizations to predict future revenue and identify sales trends.
-
-## Interview Explanation
-
-This project solves a real business problem: predicting future sales from historical data. It helps businesses plan inventory, marketing campaigns, staffing, and revenue targets. The system first cleans and aggregates sales records, creates time-based features, trains a machine learning model, evaluates accuracy, and then displays forecasts through a dashboard.
